@@ -12,16 +12,16 @@
   margin: 0;
   padding: 0;
 }
-#nav {
+#test {
   float: top;
 }
-#nav a{
+#test a{
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
-#nav a:hover{
+#test a:hover{
   background-color: #111;
 }
