@@ -1,5 +1,4 @@
-document.getElementById("demo").onclick = function() {myFunction()};
-
 function myFunction() {
-  document.getElementById("demo").innerHTML = "YOU CLICKED ME!";
+  var x = document.getElementById("myText").value;
+  document.getElementById("demo").innerHTML = x;
 }
