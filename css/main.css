@@ -15,13 +15,13 @@
 #nav {
   float: left;
 }
-#nav {
+#nav a{
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
-#nav {
+#nav a:hover{
   background-color: #111;
 }
